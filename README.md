@@ -27,7 +27,11 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=italo-Guedes&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/italo-Guedes)
+<div>
+<a href="https://github.com/Italo-Guedes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Guedes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italo-Guedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-Guedes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/italo-guedes)
-
+  
+ 
